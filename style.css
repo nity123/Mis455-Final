@@ -24,9 +24,10 @@ visibility: visible
 visibility: hidden
 }
 
-footer{
-    background-color: black;
-    height: 160px;
+.footer{
+    background-color: rgb(65, 55, 55);
+    height: 100%;
+    width: 100%;
     margin-top: 40px;
     color:white;
     padding:70px;

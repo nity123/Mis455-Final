@@ -149,7 +149,7 @@ if(x.meals.length>5){
         showMore(x);
     });
     
-} 
+}
 
 function showMore(x){
     
