@@ -1,0 +1,29 @@
+body{
+background-color: aquamarine;
+}
+
+.bg-btn {
+    background-color: rgba(209, 250, 229, var(--tw-bg-opacity));
+    border-radius: 5px;
+  }
+  .hide-alert {
+    display: none;
+  }
+
+  .mainSectionWrapDuringLoading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.spinnerVisible {
+visibility: visible
+}
+
+.spinnerHide {
+visibility: hidden
+}
+
+
+
+  
